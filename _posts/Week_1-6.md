@@ -1,14 +1,12 @@
 ---
 layout: post
 title: "GSoC Week 1 - 6"
-date: 2023-07-15
-excerpt: Summary of GSoC 2023 till 15th July
+date: 15-07-2023
+excerpt: Summary of GSoC 2023 till 15th July 2023
 tags: [gsoc, Google, OpenSource]
 feature: /assets/img/Unknown.png
 comments: true
 ---
-
-<img src="{{site.baseurl}}/assets/img/Sympy.png">
 
 
 🚀 My GSoC Journey 📚
